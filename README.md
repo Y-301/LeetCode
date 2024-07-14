@@ -11,7 +11,7 @@ Welcome to the LeetCode repository! This repository contains solutions to variou
 
 1. **Navigate the Repository:** Browse through the repository to find solutions categorized by problem type or difficulty level.
 2. **View Solutions:** Open any solution file to view the code and understand the approach used to solve the problem.
-3. **Check Performance:** The filename includes the runtime in milliseconds (e.g., `TwoSum_15ms.java`), so you can quickly gauge the efficiency of the solution.
+3. **Check Performance:** The filename includes the runtime in milliseconds (e.g., `Two Sum (0ms).java`), so you can quickly gauge the efficiency of the solution.
 4. **Read Questions:** Refer to the accompanying PDF files for the full problem statement and requirements.
 
 ## Contributions
